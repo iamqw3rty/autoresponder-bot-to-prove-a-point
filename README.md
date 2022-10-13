@@ -25,7 +25,7 @@ To setup the dashboard, set the `dashboardPort` in `/botconfig/settings.json` to
 
 ## Running the bot
 
-To run the bot, make sure you are in the bot's directory, then run `node index.js`. If all goes well, the bot should be
+To run the bot, make sure you are in the bot's directory, then run `node index.js`. If all goes well, the bot should be running!
 
 ## Adding more auto responses - MANUAL
 
