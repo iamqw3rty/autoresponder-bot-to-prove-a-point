@@ -1,7 +1,6 @@
-# autoresponder-bot-to-prove-a-point
- Simple autoresponder point to prove a point to sound#0001
+# This is an auto-responder bot I made to prove a point to `sound#0001`. Please follow the instructions or I will come to your house and break your shins.
 
- 
+
 # Dependencies
 
 - Node.js
@@ -26,7 +25,7 @@ To setup the dashboard, set the `dashboardPort` in `/botconfig/settings.json` to
 
 ## Running the bot
 
-To run the bot, make sure you are in the bot's directory, then run `node index.js`. If all goes well, the bot should be online!
+To run the bot, make sure you are in the bot's directory, then run `node index.js`. If all goes well, the bot should be
 
 ## Adding more auto responses - MANUAL
 
