@@ -3,8 +3,9 @@
 
 # Dependencies
 
+- Git
 - Node.js
-- NPM
+- npm
 
 ## Creating the bot
 
@@ -13,7 +14,7 @@ I'm assuming you know how to create a bot already on the Discord developer porta
 
 ## Configuration
 
-To configure the bot, open `/botconfig/config.json` and input your bot token in the space provided. You may also optionally change the prefix. Next, open `/botconfig/settings.json` and input the owner ID and whitelisted channels in the spaces provided.
+Before you do anything, you need to clone the repository. To do that, you must run `git clone https://github.com/iamqw3rty/autoresponder-bot-to-prove-a-point.git && cd autoresponder-bot-to-prove-a-point` (the command may vary from OS to OS, these are the instructions for Ubuntu 22.04). To configure the bot, open `/botconfig/config.json` and input your bot token in the space provided. You may also optionally change the prefix. Next, open `/botconfig/settings.json` and input the owner ID and whitelisted channels in the spaces provided.
 
 ## Installing bot dependencies
 
