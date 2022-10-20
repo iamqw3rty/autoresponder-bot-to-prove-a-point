@@ -1,6 +1,4 @@
-# This is an auto-responder bot I made to prove a point to `sound#0001`. Please follow the instructions or I will come to your house and break your shins.
-
-
+### What happens when a transfem with zero programming experience and WAY too much time on their hands gets hold of an archived repository? You get this ungodly creation. Welcome to hell, kids.
 # Dependencies
 
 - Git
@@ -9,7 +7,7 @@
 
 ## Creating the bot
 
-I'm assuming you know how to create a bot already on the Discord developer portal. If you don't, here's an image guide on how to:
+I'm assuming you know how to create a bot already on the Discord Developer Portal. If you don't, here's an image guide on how to:
 ![Image instructions](https://i.imgur.com/mWD7nS5.png)
 
 ## Configuration
