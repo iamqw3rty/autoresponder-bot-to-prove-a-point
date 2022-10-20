@@ -16,7 +16,7 @@ Before you do anything, you need to clone the repository. To do that, you must r
 
 ## Installing bot dependencies
 
-To install the bot's dependencies, first run `npm i`, then run `npm install ejs multer express`.
+To install the bot's dependencies, just run `npm i`. There is a chance that the bot will error out due to unmet dependencies. If that happens, simply run `npm install ejs multer express`.
 
 ## Setting up the dashboard
 
